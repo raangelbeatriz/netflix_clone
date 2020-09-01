@@ -1,6 +1,6 @@
 # netflix_clone
 
-A new Flutter project.
+A Netflix UI Clone. In this project I've cloned a few pages of the Netflix Clone.
 
 ## Getting Started
 
